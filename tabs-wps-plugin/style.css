@@ -1,0 +1,9 @@
+.inpagenav {
+  position: fixed;
+  z-index: 50;
+  list-style-type: none;
+}
+
+.panelctabutton {
+  background-color: blue;
+}
